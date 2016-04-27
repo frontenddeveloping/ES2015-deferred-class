@@ -19,7 +19,7 @@ module.exports = {
   devtool: 'eval-source-map',
   entry: path.resolve('src', 'es2015-deferred-module.js'),
   output: {
-    path: path.resolve('build'),
+    path: path.resolve('es5-build'),
     filename: '[name].js',
     publicPath: '/'
   },
