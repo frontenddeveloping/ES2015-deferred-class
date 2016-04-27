@@ -1,4 +1,6 @@
-
+.git
+.idea
+.DS_Store
 *.log
 npm-debug.log*
 node_modules
